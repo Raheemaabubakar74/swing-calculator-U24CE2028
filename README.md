@@ -70,6 +70,12 @@ Thank you for using the calculator. Goodbye!
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Raheemaabubakar74/swing-calculator-U24CE2028/issues) if you want to contribute.
 
+## Contributors
+
+- Raheema Abubakar Alfa
+  - Matric Number: U24CE2058
+  - Department: Civil Engineering
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
